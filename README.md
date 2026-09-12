@@ -59,11 +59,9 @@
 
 ### 🚀 Featured Projects
 
-- **[Multimodal RAG Pipeline for Research Paper Q&A](#)** — End-to-end RAG system in LangChain (Docling parsing, hybrid semantic + BM25 retrieval, Cohere Rerank, GPT-4o), evaluated with RAGAS: 0.98 faithfulness, 1.0 groundedness.
-- **[LLM-Powered Analytics Assistant](#)** — Python + Streamlit app that turns natural language into structured analytics workflows (filtering, aggregation, visualization).
-- **[Hospital Readmission Risk Model](#)** — 90-day ER readmission prediction model on clinical data; Balanced Brier Score of 0.067.
-
-> Swap the `#` links for your actual repo URLs, or use GitHub's **pinned repositories** feature instead of listing manually.
+- **Multimodal RAG Pipeline for Research Paper Q&A** — End-to-end RAG system in LangChain (Docling parsing, hybrid semantic + BM25 retrieval, Cohere Rerank, GPT-4o), evaluated with RAGAS: 0.98 faithfulness, 1.0 groundedness.
+- **LLM-Powered Analytics Assistant** — Python + Streamlit app that turns natural language into structured analytics workflows (filtering, aggregation, visualization).
+- **Hospital Readmission Risk Model** — 90-day ER readmission prediction model on clinical data; Balanced Brier Score of 0.067.
 
 ---
 
