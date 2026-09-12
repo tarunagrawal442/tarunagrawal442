@@ -74,5 +74,3 @@
   <a href="https://www.linkedin.com/in/tarunagrawal442" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:ta2629@tc.columbia.edu"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-
-<p align="center"><i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">tarunagrawal442</a></i></p>
