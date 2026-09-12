@@ -58,21 +58,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true"/>
-</p>
-
-> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub handle for these to render.
-
----
-
 ### 🚀 Featured Projects
 
 - **[Multimodal RAG Pipeline for Research Paper Q&A](#)** — End-to-end RAG system in LangChain (Docling parsing, hybrid semantic + BM25 retrieval, Cohere Rerank, GPT-4o), evaluated with RAGAS: 0.98 faithfulness, 1.0 groundedness.
@@ -83,21 +68,11 @@
 
 ---
 
-### ✍️ Latest Blog Posts / Writing
-<!--
-Optional: auto-update this with the "blog-post-workflow" GitHub Action if you write on Medium/Dev.to/Substack.
-BLOG-POST-LIST:START
-BLOG-POST-LIST:END
--->
-_Coming soon — connect a blog feed here via GitHub Actions._
-
----
-
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tarunagrawal442" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:ta2629@tc.columbia.edu"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">YOUR_GITHUB_USERNAME</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">tarunagrawal442</a></i></p>
