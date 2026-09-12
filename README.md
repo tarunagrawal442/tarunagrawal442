@@ -57,7 +57,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 - **Multimodal RAG Pipeline for Research Paper Q&A** — End-to-end RAG system in LangChain (Docling parsing, hybrid semantic + BM25 retrieval, Cohere Rerank, GPT-4o), evaluated with RAGAS: 0.98 faithfulness, 1.0 groundedness.
 - **LLM-Powered Analytics Assistant** — Python + Streamlit app that turns natural language into structured analytics workflows (filtering, aggregation, visualization).
