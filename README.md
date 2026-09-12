@@ -16,7 +16,6 @@
 - 🧪 Co-author on a real-world clinicogenomic study presented at **ASCO GU 2025**
 - 🤖 Currently exploring **RAG pipelines, LangChain, and LLM-powered analytics tools**
 - 🩺 Passionate about turning messy clinical data into decisions that actually help patients
-- 💬 Ask me about survival analysis, PR-AUC vs. recall tradeoffs, or productionizing ML on Databricks
 
 ---
 
